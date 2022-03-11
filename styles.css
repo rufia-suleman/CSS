@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+*{
+    font-family: "Quicksand", sans-serif;
+}
+h3{
+    color: orange;
+    font-size: x-large;
+}
+h4{
+    font-weight: 700;
+}
+h1{
+    text-align: center;
+}
+header h2{
+    color: orange;
+}
+div > h4{
+    color: gray;
+    text-align: center;
+    font-weight: 700;
+}
+button:hover{
+    background-color: aquamarine;
+}
+#About-section{
+    background-color: rgb(47, 47, 190);
+}
+#contact-section{
+    background-color: red;
+}
